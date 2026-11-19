@@ -1,0 +1,15 @@
+Privacy Policy for SafeИщчЗдгы
+Last updated: November 19, 2026
+1. Overview
+Safebox Syncer ("the App") is a utility plugin designed exclusively to synchronize encrypted backup files created by the Safe+ password manager with cloud storage providers selected by the user (Google Drive, Dropbox, Box.com, Yandex.Disk, and FTP/FTPS servers).
+2. Data Collection and Storage
+• No External Servers: The App does not operate any developer-owned backend servers. All file transfers occur directly between your Android device and your personal cloud storage account.
+• No Personal Data Collection: We do not collect, track, store, or share your personal information, contacts, passwords, or analytics.
+• Encrypted Files Only: The App only reads and uploads encrypted database files located in the mySafeboxPro directory. The App cannot decrypt or view the contents of your database.
+3. Google Drive API Services User Data Policy
+Safebox Syncer's use and transfer to any other app of information received from Google APIs will adhere to the Google API Services User Data Policy, including the Limited Use requirements:
+• Scope of Access: The App requests access to Google Drive solely to create, read, update, and delete your encrypted backup files inside the mySafeboxPro folder.
+• Local Token Storage: OAuth access and refresh tokens are stored strictly locally in your device's private application preferences (SharedPreferences) and are never transmitted to any third party.
+• Revoking Access: You can disconnect your Google account at any time inside the App or by revoking access in your Google Account security settings.
+4. Contact Information
+If you have any questions regarding this Privacy Policy, you may contact the developer at: [vasiliypostnikov@gmail.com]
